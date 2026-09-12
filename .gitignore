@@ -1,0 +1,16 @@
+# R session artifacts
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Downloaded data and large caches (not part of the repository)
+data/
+coloc_data/
+output/
+figures_fixed/
+figtest/
+
+# OS artifacts
+Thumbs.db
+.DS_Store
